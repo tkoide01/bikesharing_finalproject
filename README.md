@@ -6,7 +6,6 @@ We want to offer a deeper analysis to investors and community on the growth tren
 - Location of Bike Station (Latitude, Longitude, and Zip code)
 - Member and Casual user types 
 - Popular and Unpopular Bike routes
-- Weather
 - Weekday and Weekend User number 
 - Time of day analysis
 ## DESCRIPTION OF SOURCE DATA
